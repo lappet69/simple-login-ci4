@@ -4,7 +4,7 @@ First clone the repository
 ```bash
 git clone https://github.com/lappet69/simple-login-ci4.git
 
-cd php-ci-4_crud-my-sql
+cd simple-login-ci4
 
 ```
 ## Setup
