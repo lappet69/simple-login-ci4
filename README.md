@@ -2,7 +2,7 @@
 
 First clone the repository
 ```bash
-git clone https://github.com/lappet69/php-ci-4_crud-my-sql.git
+git clone https://github.com/lappet69/simple-login-ci4.git
 
 cd php-ci-4_crud-my-sql
 
